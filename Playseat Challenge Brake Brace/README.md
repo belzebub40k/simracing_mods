@@ -17,7 +17,7 @@ Use M4x6.3x8mm heat-set threaded inserts in the bottom part. Total of 12pcs. nee
 Add felt pads to bottom part if you have a floor that needs additional protection against scratches and damage.
 
 ![](images/playseat_brake_brace_5.jpg)
-M4x20mm screws are used to screw both halfs of the reinforcement brace together.
+M4x12mm screws are used to screw both halfs of the reinforcement brace together.
 Be careful when tightening the screws. Stop tightening the screws when you can feel the top plastic part to start bending.
 Otherwise you run the risk that you rip the threaded inserts out of the bottom part.
 A small gap between the top and bottom parts depending on the tolerance of playseat tube size will remain.
