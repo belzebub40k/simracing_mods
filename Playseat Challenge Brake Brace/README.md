@@ -11,7 +11,7 @@ Use `brace_playseat_normal_xxx.stl` when using the default brake pedal mounting 
 Finished assembly mounted to the playseat and the brake holder tubes
 
 ![](images/playseat_brake_brace_3.jpg)
-Use M4x6.3x8mm heat-set threaded inserts in the bottom part. Total of 10pcs. needed for both bottom pivot reinforcement parts.
+Use M4x6.3x8mm heat-set threaded inserts in the bottom part. Total of 12pcs. needed for both bottom pivot reinforcement parts.
 
 ![](images/playseat_brake_brace_4.jpg)
 Add felt pads to bottom part if you have a floor that needs additional protection against scratches and damage.
