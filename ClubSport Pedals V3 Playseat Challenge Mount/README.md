@@ -2,7 +2,7 @@ ClubSport Pedals V3 Playseat Challenge Mount
 ================
 A set of mounts designed to rigidly mount the Fanatec Clubsport V3 pedals to the Playseat Challenge. Designed to be used together with 20x20 or 40x20 (dual 20x20) aluminum extrusion profile.
 
-Use `csp_v3_pedal_mount.stl` for 20x20 extrusion and `csp_v3_pedal_mount_double.stl` for 40x20 extrusion. The parts are design to be used with M4 bolts.
+Use `csp_v3_pedal_mount.stl` for 20x20 extrusion and `csp_v3_pedal_mount_double.stl` for 40x20 extrusion. The parts are design to be used with M4x40 bolts.
 
 ![](images/csp_v3_mount_1.jpg)
 Finished Setup
